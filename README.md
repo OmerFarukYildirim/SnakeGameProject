@@ -1,2 +1,0 @@
-# SnakeGameProject
-# SnakeGameProject
